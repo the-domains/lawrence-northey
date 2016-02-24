@@ -1,0 +1,28 @@
+name: Lawrence Northey
+favicon: null
+layout_spectrum: 0.034176861168816686
+typography_spectrum: 0.30117148719727993
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1559034886304289
+  lightness: 0.8272772959899157
+  saturation: 0.7574548800475895
+  rhythmicContrast: 0.046699415892362595
+purpose: []
